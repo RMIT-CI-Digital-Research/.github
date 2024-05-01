@@ -1,6 +1,8 @@
 ## Hi there 👋
 The following is the team site.
-https://rmit-ci-digital-research.github.io/
+https://rmit-ci-digital-research.github.io/  
+for avatar
+https://personas.draftbit.com/ 
 <!--
 
 **Here are some ideas to get you started:**
