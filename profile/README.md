@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://rmit-ci-digital-research.github.io/OENG1191.github.io/
+[https://rmit-ci-digital-research.github.io/OENG1191.github.io/](https://rmit-ci-digital-research.github.io/cidr.github.io/)
 
 <!--
 
